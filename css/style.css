@@ -516,7 +516,7 @@ section {
 
 @media screen and (max-width: 400px){
   .box-container .box img{
-    width: 150px;
-    height: 110px;
+    width: 250px;
+    height: 210px;
   }
 }
