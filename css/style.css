@@ -507,4 +507,9 @@ section {
     width: 30px;
     height: 30px;
   }
+
+  .services img{
+    width: 150px;
+    height: 110px;
+  }
 }
