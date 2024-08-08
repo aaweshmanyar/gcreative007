@@ -513,3 +513,10 @@ section {
     height: 110px;
   }
 }
+
+@media screen and (max-width: 400px){
+  .box-container .box img{
+    width: 150px;
+    height: 110px;
+  }
+}
