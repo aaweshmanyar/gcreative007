@@ -503,10 +503,7 @@ section {
     float: right;
   }
 
-  .box img{
-    width: 30px;
-    height: 30px;
-  }
+
 
   .box-container .box img{
     width: 150px;
